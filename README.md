@@ -15,12 +15,16 @@ To run this application locally you need to:
 
 ## Usage
 
+Check out the link above to see the live site, or use the information below to launch it on your machine.
+
 After installing and running the application, you can access the homepage at http://localhost:3000. The homepage contains a simple form that asks for the user's first name, last name, and email address.
 
 Once the user submits the form, the server sends a POST request to Mailchimp API to add the user to the specified audience. If the request is successful, the user will see a success page. Otherwise, they will see a failure page.
 
 ## Technologies
 
+- HTML/CSS/Bootstrap
+- JavaScript
 - Node.JS
 - Express.JS
 - MailChimp API
