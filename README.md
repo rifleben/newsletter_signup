@@ -1,6 +1,10 @@
 # Newsletter Signup Web Application
 
-This is a simple newsletter sign-up web application built with Node.js and Express.js. It uses Mailchimp API to add subscribers to a specific audience in Mailchimp. Hosted on Heroku.
+This is a very simple newsletter sign-up web application built with Node.js and Express.js. It uses Mailchimp API to add subscribers to a specific audience in Mailchimp. Hosted on Heroku.
+
+The intent of this web app was to learn a bit more about how to use APIs in a production environment, and host a webpage using a service like Heroku.
+
+Find the live page [HERE](https://rifleman-news.herokuapp.com/).
 
 ## Installation 
 
